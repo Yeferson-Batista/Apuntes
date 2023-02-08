@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hola  Tierra
-=======
-Hola  tiera
->>>>>>> 34ed6ea43ebef147dfc3c583b01beb86c8a9fbcf
